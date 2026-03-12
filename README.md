@@ -56,11 +56,11 @@ Aplikasi manajemen perpustakaan berbasis web yang dikembangkan menggunakan **Lar
     ```
 
 ## 📖 Akun Demo Default
-| Role | Username | Password |
+| Role | Name | Password |
 | :--- | :--- | :--- |
-| Admin | admin | password |
-| Petugas | petugas | password |
-| Peminjam | raehan | password |
+| Admin | admin | admin123 |
+| Petugas | akbar | akbar123 |
+| Peminjam | rehan | rehan123 |
 
 ## 📝 Catatan Penting (Business Logic)
 Aplikasi ini menggunakan status khusus **"Menunggu di ACC"**. Saat peminjam mengembalikan buku lewat sistem, status tidak langsung "Selesai". Petugas harus memverifikasi kondisi fisik buku terlebih dahulu melalui halaman **Laporan** sebelum menekan tombol **ACC Kembali**.
