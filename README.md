@@ -24,6 +24,23 @@ Aplikasi manajemen perpustakaan berbasis web yang dikembangkan menggunakan **Lar
 * **Styling**: Bootstrap 5
 * **Language**: PHP 8.3
 
+## 📸 Preview Halaman
+
+### Welcome Screen Admin & Petugas
+![Database](<img width="1021" height="705" alt="Image" src="https://github.com/user-attachments/assets/29fc47f9-7a5b-4211-aa65-d4c51fa66344" />)
+
+### Welcome Screen Admin & Petugas
+![Welcome Screen](<img width="1919" height="739" alt="Image" src="https://github.com/user-attachments/assets/61aab6e1-48b2-4b19-a3bc-bc9657d3314d" />)
+
+### Interface Overview
+| Halaman Login | Koleksi Buku (Admin) |
+| :---: | :---: |
+| ![Login Page](<img width="707" height="501" alt="Image" src="https://github.com/user-attachments/assets/a6f05f50-aa77-4d26-802c-bee73d3d406e" />) | ![Data Buku](https://github.com/user-attachments/assets/ee101bf0-8b71-4217-94a7-f8cb8e895cc3) |
+
+| Laporan Peminjaman | Dashboard Peminjam |
+| :---: | :---: |
+| ![Laporan](<img width="1919" height="987" alt="Image" src="https://github.com/user-attachments/assets/8c786151-2b40-48ab-b21d-9db005943718" />) | ![Dashboard](https://github.com/user-attachments/assets/e2b4b1db-0732-4231-87e6-322c7e8858d8) |
+
 ## 🚀 Cara Instalasi
 
 1.  **Clone Repository**
