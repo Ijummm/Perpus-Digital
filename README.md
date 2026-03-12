@@ -25,7 +25,7 @@ Aplikasi manajemen perpustakaan berbasis web yang dikembangkan menggunakan **Lar
 * **Language**: PHP 8.3
 
 ## 🤖 Database
-![Database]<img width="707" height="501" alt="Image" src="https://github.com/user-attachments/assets/a6f05f50-aa77-4d26-802c-bee73d3d406e" />
+<img width="707" height="501" alt="Image" src="https://github.com/user-attachments/assets/a6f05f50-aa77-4d26-802c-bee73d3d406e" />
 
 ## 🚀 Cara Instalasi
 
